@@ -1,0 +1,10 @@
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\bin\Debug\L4GADLP3036805.exe.config
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\bin\Debug\L4GADLP3036805.exe
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\bin\Debug\L4GADLP3036805.pdb
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.csproj.AssemblyReference.cache
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.Form1.resources
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.Properties.Resources.resources
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.csproj.GenerateResource.cache
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.csproj.CoreCompileInputs.cache
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.exe
+C:\Users\gadlp\source\repos\L4GADLP3036805\L4GADLP3036805\obj\Debug\L4GADLP3036805.pdb
